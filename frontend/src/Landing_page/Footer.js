@@ -12,36 +12,36 @@ All rights reserved.</p>
                 </div>
                 <div className="col">
                     <p>Company</p>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>About</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Philosophy</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Press & media</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Careers</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Zerodha Cares (CSR)</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Zerodha.tech</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Open source</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>About</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Philosophy</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Press & media</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Careers</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Zerodha Cares (CSR)</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Zerodha.tech</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Open source</a><br/>
 
                 </div>
                 <div className="col">
                     <p>Support</p>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Contact us</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Support portal</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>How to file a complaint?</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Status of your complaints</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Bulletin</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Circular</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Z-Connect blog</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Downloads</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Contact us</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Support portal</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>How to file a complaint?</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Status of your complaints</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Bulletin</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Circular</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Z-Connect blog</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Downloads</a><br/>
                 </div>
                 <div className="col">
                     <p>Account</p>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Open demat account</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Minor demat account</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>NRI demat account</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Commodity</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Dematerialisation</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Fund transfer</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>MTF</a><br/>
-                    <a className='text-muted' href=''style={{textDecoration:"none"}}>Referral program</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Open demat account</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Minor demat account</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>NRI demat account</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Commodity</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Dematerialisation</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Fund transfer</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>MTF</a><br/>
+                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Referral program</a><br/>
                 </div>
             
             </div>
